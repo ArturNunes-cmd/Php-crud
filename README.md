@@ -32,3 +32,4 @@ Remove uma pizza do banco de dados.
 - PHP
 - MySQL
 - HTML
+- CSS
