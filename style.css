@@ -1,0 +1,30 @@
+h1{
+    text-align: center;    
+}
+
+#texto{
+    font-size: 18px;   
+}
+#texto:hover{
+    transition: 0.5s;
+    font-size: 20px;
+}
+
+.table{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.linha {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.caixa {
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    margin:auto;
+}
+
